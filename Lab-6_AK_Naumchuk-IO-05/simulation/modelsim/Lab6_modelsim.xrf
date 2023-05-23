@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, C:/QuantusPrj/Lab6/Lab6.bdf
+source_file = 1, C:/QuantusPrj/Lab6/block_name.bdf
+source_file = 1, C:/QuantusPrj/Lab6/db/Lab6.cbx.xml
+design_name = Lab6
+instance = comp, \out_y~output\, out_y~output, Lab6, 1
+instance = comp, \in_x1~input\, in_x1~input, Lab6, 1
+instance = comp, \in_x2~input\, in_x2~input, Lab6, 1
+instance = comp, \in_x4~input\, in_x4~input, Lab6, 1
+instance = comp, \in_x3~input\, in_x3~input, Lab6, 1
