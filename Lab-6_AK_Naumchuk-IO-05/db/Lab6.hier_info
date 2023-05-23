@@ -1,0 +1,25 @@
+|Lab6
+out_y <= y.DB_MAX_OUTPUT_PORT_TYPE
+in_x1 => block_name:inst.x1
+in_x2 => block_name:inst.x2
+in_x3 => block_name:inst.x3
+in_x4 => block_name:inst.x4
+
+
+|Lab6|block_name:inst
+y <= inst174.DB_MAX_OUTPUT_PORT_TYPE
+x2 => inst161.IN0
+x2 => inst176.IN0
+x2 => inst164.IN0
+x2 => inst.IN0
+x1 => inst178.IN1
+x1 => inst177.IN1
+x1 => inst163.IN0
+x1 => inst167.IN0
+x3 => inst162.IN0
+x3 => inst176.IN1
+x3 => inst165.IN0
+x4 => inst166.IN0
+x4 => inst.IN1
+
+
