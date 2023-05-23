@@ -1,0 +1,20 @@
+|lab6v2
+out_y <= y.DB_MAX_OUTPUT_PORT_TYPE
+in_x1 => LC_1:inst.x1
+in_x2 => LC_1:inst.x2
+in_x3 => LC_1:inst.x3
+in_x4 => LC_1:inst.x4
+
+
+|lab6v2|LC_1:inst
+y <= inst29.DB_MAX_OUTPUT_PORT_TYPE
+x1 => inst.IN0
+x1 => inst3.IN0
+x1 => inst16.IN0
+x2 => inst.IN1
+x2 => inst17.IN0
+x3 => inst3.IN1
+x3 => inst19.IN0
+x4 => inst3.IN2
+
+
